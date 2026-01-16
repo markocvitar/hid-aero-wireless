@@ -1,13 +1,3 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
-/*
- *  HID driver for White Shark Aero Black
- *
- *  Copyright (c) 2024 Moj 
- */
-
-/*
- */
-
 #include <linux/init.h>
 #include <linux/module.h>
 #include <linux/hid.h>
